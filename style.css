@@ -29,7 +29,7 @@ body {
   justify-content: center;
   text-align: center;
   overflow: hidden;
-  color: white;
+  color: rgb(255, 253, 253);
   padding: 5rem 2rem;
   background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.2)),
               url('imagens/casal-de-tiro-completo-e-cachorro-em-casa.webp') no-repeat top center;
